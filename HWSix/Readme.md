@@ -29,11 +29,12 @@ integrationTest в классе IntegrationTest
 > К сожалению создать сквозной тест не хватило навыков...
 
 ## Метрики
-### Отчет о покрытии кода тестами  
-![asd](https://github.com/A1eksX/UnitTestHW/blob/master/HWSix/Screenshots/Checkstyle.png?raw=true)
-![CoverageTest](https://github.com/A1eksX/UnitTestHW/blob/HW6/Screenshots/CodeCoverage.jpg?raw=true)
+### Отчет о покрытии кода тестами
 
-![StatusRunnigTest](https://github.com/A1eksX/UnitTestHW/blob/HW6/Screenshots/StatusRunnigTest.jpg?raw=true)
+
+![CoverageTest](https://github.com/A1eksX/UnitTestHW/blob/master/HWSix/Screenshots/CodeCoverage.jpg?raw=true)
+
+![StatusRunnigTest](https://github.com/A1eksX/UnitTestHW/blob/master/HWSix/Screenshots/StatusRunnigTest.jpg?raw=true)
 
 ### Отчет Checkstyle
-![Checkstyle](https://github.com/A1eksX/UnitTestHW/blob/HW6/Screenshots/Checkstyle.png?raw=true)
+![Checkstyle](https://github.com/A1eksX/UnitTestHW/blob/master/HWSix/Screenshots/Checkstyle.png?raw=true)
