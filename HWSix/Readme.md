@@ -30,6 +30,7 @@ integrationTest в классе IntegrationTest
 
 ## Метрики
 ### Отчет о покрытии кода тестами  
+![asd](https://github.com/A1eksX/UnitTestHW/blob/master/HWSix/Screenshots/Checkstyle.png?raw=true)
 ![CoverageTest](https://github.com/A1eksX/UnitTestHW/blob/HW6/Screenshots/CodeCoverage.jpg?raw=true)
 
 ![StatusRunnigTest](https://github.com/A1eksX/UnitTestHW/blob/HW6/Screenshots/StatusRunnigTest.jpg?raw=true)
